@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6badf112.css",
+    "main.js": "/static/js/main.4c6addd2.js",
+    "static/media/eccomerce.png": "/static/media/eccomerce.656023f12ac72ac1da9b.png",
+    "static/media/topup.png": "/static/media/topup.19748b4b2a14028ad0a2.png",
+    "static/media/portfolio.png": "/static/media/portfolio.e341638a937d8b60baef.png",
+    "static/media/me.png": "/static/media/me.89c3af3e20fad1c19ee7.png",
+    "static/media/crud.png": "/static/media/crud.4cf8c76980152aae8461.png",
+    "static/media/html.png": "/static/media/html.fb627e76c05a9a6c7444.png",
+    "static/media/css.png": "/static/media/css.ea63097553654f07d95c.png",
+    "static/media/js.png": "/static/media/js.f1d5b02e93d0b03f4c6d.png",
+    "static/media/react.png": "/static/media/react.cd4ab68456d5875b788e.png",
+    "index.html": "/index.html",
+    "main.6badf112.css.map": "/static/css/main.6badf112.css.map",
+    "main.4c6addd2.js.map": "/static/js/main.4c6addd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6badf112.css",
+    "static/js/main.4c6addd2.js"
+  ]
+}
